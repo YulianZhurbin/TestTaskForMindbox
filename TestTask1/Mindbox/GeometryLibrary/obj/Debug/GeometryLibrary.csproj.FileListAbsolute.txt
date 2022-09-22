@@ -1,0 +1,6 @@
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.AssemblyReference.cache
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary\obj\Debug\GeometryLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\GeometryLibrary.Tests.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\GeometryLibrary.Tests.pdb
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\GeometryLibrary.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\GeometryLibrary.pdb
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\obj\Debug\GeometryLibrary.Tests.csproj.AssemblyReference.cache
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\obj\Debug\GeometryLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\obj\Debug\GeometryLibrary.Tests.csproj.CopyComplete
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\obj\Debug\GeometryLibrary.Tests.dll
+C:\Julian\TestTasks\Mindbox\GeometryLibrary.Tests\obj\Debug\GeometryLibrary.Tests.pdb
